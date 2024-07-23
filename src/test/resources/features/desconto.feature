@@ -5,6 +5,7 @@
     Quero receber cupom de desconto
     Para comprar um curso com valor reduzido
 
+    @test01
     Cenário: Visualizar código de desconto
       Dado que estou no site da QAzando
       Quando preencho meu email
